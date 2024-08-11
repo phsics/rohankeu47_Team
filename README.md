@@ -7,7 +7,7 @@ The overall solution for the Adobe Gensolve Hackathon.
 Our mission is to identify, regularize, and beautify curves in 2D Euclidean space. This project starts by focusing on closed curves and expands to more complex shapes. The project also covers symmetry detection and curve completion techniques.
 
 # Solutions
-## For every problem statement, a separate Python NoteBook is created and the links to the Google Collab NoteBooks are attached.
+### For every problem statement, a separate Python NoteBook has been created and the links to the Google Collab NoteBooks are attached.
 1. Curve Regularization: Identify and categorize shapes based on regular geometric forms.
   [Curve Regularization Google Colab NoteBook](https://colab.research.google.com/drive/1x2qskCzfUpjXP_bV6IcTOHUgKBzMIooo?usp=sharing)
 2. Symmetry Detection: Explore and detect symmetries in closed curves.
