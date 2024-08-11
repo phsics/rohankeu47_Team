@@ -8,11 +8,11 @@ Our mission is to identify, regularize, and beautify curves in 2D Euclidean spac
 
 # Solutions
 1. Curve Regularization: Identify and categorize shapes based on regular geometric forms.
-  (Curve Regularization Google Colab NoteBook)[https://colab.research.google.com/drive/1x2qskCzfUpjXP_bV6IcTOHUgKBzMIooo?usp=sharing]
+  [Curve Regularization Google Colab NoteBook](https://colab.research.google.com/drive/1x2qskCzfUpjXP_bV6IcTOHUgKBzMIooo?usp=sharing)
 2. Symmetry Detection: Explore and detect symmetries in closed curves.
   (Symmetry Detection Google Colab NoteBook)[]
 3. Occlusion Completion: Complete curves that have been occluded or fragmented.
-  (Occlusion Completion Google Colab NoteBook)[]
+  [Occlusion Completion Google Colab NoteBook](https://colab.research.google.com/drive/1S9y5f8bw7fzMhlQp7ygPg9zqfyKMdzSe?usp=sharing)
 
 
 # Problem Description:
